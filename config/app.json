@@ -1,1 +1,9 @@
-{}
+{
+  "app": {
+    "host": "localhost",
+    "port": 9005,
+    "password": "edex",
+    "locale": "de",
+    "monitoring": true
+  }
+}

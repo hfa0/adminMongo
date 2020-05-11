@@ -53,7 +53,7 @@
 	"Key": "Schlüssel",
 	"Delete index": "Index löschen",
 	"Add document": "Dokument hinzufügen",
-	"database name": "name der Datenbank",
+	"database name": "database name",
 	"Please enter password": "Bitte Passwort eingeben",
 	"Password": "Passwort",
 	"Sign in": "Anmelden",
@@ -91,6 +91,13 @@
 	"Error connecting to database": "Fehler zu Datenbank verbinden",
 	"Invalid database name": "Ungültige Datenbanknamen",
 	"Index successfully dropped": "Index erfolgreich gesunken",
-	"database name": "database name",
- 	"Logout": "Ausloggen"
+	"Logout": "Ausloggen",
+	"Connection options": "Connection options",
+	"Create collection": "Create collection",
+	"Monitoring": "Monitoring",
+	"Indexes": "Indexes",
+	"Query": "Query",
+	"Total records": "Total records",
+	"Link": "Link",
+	"Edit": "Edit"
 }

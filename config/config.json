@@ -1,1 +1,8 @@
-{}
+{
+  "connections": {
+    "edex test": {
+      "connection_string": "mongodb://127.0.0.1:27017/edex-test",
+      "connection_options": {}
+    }
+  }
+}

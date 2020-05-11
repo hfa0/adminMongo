@@ -184,9 +184,9 @@ app.use(session({
 
 // front-end modules loaded from NPM
 app.use(app_context + '/static', express.static(path.join(dir_base, 'public/')));
-app.use(app_context + '/font-awesome', express.static(path.join(dir_base, 'node_modules/font-awesome/')));
-app.use(app_context + '/jquery', express.static(path.join(dir_base, 'node_modules/jquery/dist/')));
-app.use(app_context + '/bootstrap', express.static(path.join(dir_base, 'node_modules/bootstrap/dist/')));
+app.use(app_context + '/font-awesome', express.static(path.join(dir_base, '../../node_modules/font-awesome/')));
+app.use(app_context + '/jquery', express.static(path.join(dir_base, '../../node_modules/jquery/dist/')));
+app.use(app_context + '/bootstrap', express.static(path.join(dir_base, '../../node_modules/bootstrap/dist/')));
 app.use(app_context + '/css', express.static(path.join(dir_base, 'public/css')));
 app.use(app_context + '/fonts', express.static(path.join(dir_base, 'public/fonts')));
 app.use(app_context + '/js', express.static(path.join(dir_base, 'public/js')));
